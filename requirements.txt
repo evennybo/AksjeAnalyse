@@ -1,0 +1,8 @@
+streamlit
+yfinance
+openai
+pandas
+matplotlib
+plotly
+requests
+tradingeconomics
